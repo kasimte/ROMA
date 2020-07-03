@@ -31,7 +31,7 @@ If you want to run the environments we designed, move all the SC2 maps in `src/e
 It is worth noting that `bane_vs_bane1` corresponds to `6z4b`, `zb_vs_sz` corresponds to `10z5b_vs_2s3z`, and `sz_vs_zb` 
 corresponds to `6s4z_vs_10b30z` in the paper. 
 
-The requirements.txt file can be used to install the necessary packages into a virtual environment (not recomended).
+The requirements.txt file can be used to install the necessary packages into a virtual environment (not recommended).
 
 ## Run an experiment 
 
